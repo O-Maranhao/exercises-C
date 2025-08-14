@@ -1,0 +1,12 @@
+#include<stdio.h>
+
+int main(){
+    int a, b, i;
+    scanf("%d%d", &a, &b);
+    i=a;
+    while((i>=a)&&(i<b)){
+        printf("%d\n", i);
+        i++;
+    }
+
+}
