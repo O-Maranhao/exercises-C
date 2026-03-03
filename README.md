@@ -11,7 +11,7 @@ This repository contains a collection of solved exercises in the C programming l
 - **string/** – String manipulation and character array handling.
 - **struct/** – Use of `structs` for modeling composite data.
 - **vector/** – Operations with one-dimensional arrays (vectors).
-- 
+  
 ## Purpose
 
 This repository contains programming exercises assigned by my professor during the first semester of the Software Engineering program at the Federal University of Ceará (UFC), as part of the Programming Fundamentals (FUNP) course, class of 2025.1. It serves as a personal archive and study resource.
